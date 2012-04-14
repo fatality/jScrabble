@@ -1,0 +1,13 @@
+de.hsaugsburg.games.boardgames
+de.hsaugsburg.games.boardgames.connectfour
+de.hsaugsburg.games.boardgames.connectfour.application
+de.hsaugsburg.games.boardgames.connectfour.consoleui
+de.hsaugsburg.games.boardgames.connectfour.exceptions
+de.hsaugsburg.games.boardgames.connectfour.strategy
+de.hsaugsburg.games.boardgames.connectfour.test
+de.hsaugsburg.games.boardgames.exceptions
+de.hsaugsburg.games.boardgames.scrabble
+de.hsaugsburg.games.boardgames.scrabble.application
+de.hsaugsburg.games.boardgames.scrabble.consoleui
+de.hsaugsburg.games.boardgames.scrabble.strategy
+de.hsaugsburg.games.boardgames.scrabble.test

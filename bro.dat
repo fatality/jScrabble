@@ -1,0 +1,32 @@
+newgame <sp | mp | cp> * start new game in single- or multiplayer mode
+player <name> <terminal> * add new players or else default players will be used
+add <letter> <rowlt> <columnnr>  * a letter and coordinates in range
+remove <rowlt> <columnnr>  * a letter and an integer in range
+commit * commit word
+pass * skip one turn
+agree * agree that the lastly commited word(s) is(are) real
+reject * reject lastly commited word(s) 
+render * render board
+help * list all commands
+save * save current game
+load * load lastly saved game
+exit * exit program
+  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 
+A___ .  .  .. .  .  . ___ .  .  .  .. .  . ___A
+B .  __ .  .  . ... .  .  . ... .  .  .  __ . B
+C .  .  __ .  .  .  .. .  .. .  .  .  __ .  . C
+D .. .  .  __ .  .  .  .. .  .  .  __ .  .  ..D
+E .  .  .  .  __ .  .  .  .  .  __ .  .  .  . E
+F . ... .  .  . ... .  .  . ... .  .  . ... . F
+G .  .  .. .  .  .  .. .  .. .  .  .  .. .  . G
+H___ .  .  .. .  .  Y [J][D] .  .  .. .  . ___H
+I .  .  .. .  .  .  ..[A] .. .  .  .  .. .  . I
+J . ... .  .  . ... .  .  . ... .  .  . ... . J
+K .  .  .  .  __ .  .  .  .  .  __ .  .  .  . K
+L .. .  .  __ .  .  .  .. .  .  .  __ .  .  ..L
+M .  .  __ .  .  .  .. .  .. .  .  .  __ .  . M
+N .  __ .  .  . ... .  .  . ... .  .  .  __ . N
+O___ .  .  .. .  .  . ___ .  .  .  .. .  . ___O
+  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 
+Current player: Player1
+Pieces: [E, X, E, Ü, S, T]
